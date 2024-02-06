@@ -54,6 +54,6 @@
 *          Example:
             break
             break <#label name#>
-###### "continue" is used in Swift, however, is not valid within a switch statement in Swift. It is only used within loops.
+###### "continue" is used in Swift, however, is not valid within a switch statement. It is only used within loops.
 #### 5. Lastly, and perhaps most importantly: it is time to start thinking about what your programming project is going to actually be. In future sessions we will be breaking down your project into individual milestones for weekly check-ins. But for now, just write a short paragraph about what it is you are planning to code in your language of choice. Remember that it should be a substantial program - a game, app, calendar, web site, etc. (I'll try to dig up some examples to share before next class)
 ###### 
