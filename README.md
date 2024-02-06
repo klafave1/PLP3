@@ -62,4 +62,3 @@
 * https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements
 * https://www.freecodecamp.org/news/the-swift-handbook/#operators-in-swift
 * https://www.geeksforgeeks.org/swift-operators/
-* 
