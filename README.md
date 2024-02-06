@@ -43,3 +43,7 @@
           default:
               <#statements#>
           }
+###### Operators used to act on booleans:
+* ! - NOT (NOT inverts a boolean value, meaning, if the value was true, it will become false when used and vice versa)
+* && - AND (AND combines two boolean values. If both are true, it will return true. Otherwise, it will return false)
+* || - OR (OR combines two boolean values. If only one value is true, it will return true. Otherwise, it will return false)
