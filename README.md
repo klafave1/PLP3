@@ -25,7 +25,7 @@
           } else {
              <#statements to execute if both conditions are false#>
           }
-* guard: (transfer of program control if one or more conditions are met)
+* guard: (transfer of program control if one or more conditions are NOT met)
 *           Example:
             guard <#condition#> else {
              <#statements#>
