@@ -59,3 +59,7 @@
 ###### For my programming project, I am planning to develop a simple medication management app using Swift. Drawing from personal experience, with a genetic disease, and with family members affected by Type 1 Diabetes, including my sister, I understand the challenges associated with medication adherence. I would want this app to serve as a daily tool for organizing medication schedules and providing reminders to facilitate better adherence to treatment plans. Users will be able to input their medications and dosages, set customizable reminders, and track their medication intake. The app will prioritize simplicity and accessibility.
 ##### Sources:
 * https://swiftdoc.org/v3.0/type/bool/#:~:text=A%20value%20type%20whose%20instances%20are%20either%20true,method%20or%20operation%20to%20a%20variable%20or%20constant.
+* https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements
+* https://www.freecodecamp.org/news/the-swift-handbook/#operators-in-swift
+* https://www.geeksforgeeks.org/swift-operators/
+* 
