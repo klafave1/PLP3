@@ -47,3 +47,10 @@
 * ! - NOT (NOT inverts a boolean value, meaning, if the value was true, it will become false when used and vice versa)
 * && - AND (AND combines two boolean values. If both are true, it will return true. Otherwise, it will return false)
 * || - OR (OR combines two boolean values. If only one value is true, it will return true. Otherwise, it will return false)
+#### 3. How does your programming language deal with the “dangling else” problem? 
+###### The use of braces ({}) is enforced within Swift which deals with the dangling else issue. An if/else statement of any variation will not run without braces. 
+#### 4. If your language supports switch or case statements, do you have to use “break” to get out of them? Can you use “continue” to have all of them evaluated?
+###### As discussed earlier, Swift does support switch statements. "break" can be used to exit a loop, if statement, or a switch statement. 
+*          Example:
+            break
+            break <#label name#>
